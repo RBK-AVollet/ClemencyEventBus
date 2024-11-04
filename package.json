@@ -1,0 +1,20 @@
+{
+    "name": "com.Clemency.EventBus",
+    "version": "1.0.0",
+    "displayName": "Clemency Event Bus",
+    "description": "This is an event bus system part of the Clemency package bundle.",
+    "unity": "2022.1",
+    "keywords": [
+        "Events",
+        "Event",
+        "Bus",
+        "Messages",
+        "Message",
+        "Messaging",
+        "Dependencies"
+    ],
+    "author": {
+        "name": "Antoine VOLLET",
+        "email": "antoinevollet.pro@gmail.com"
+    }
+  }
